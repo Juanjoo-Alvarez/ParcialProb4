@@ -5,9 +5,9 @@
 
 #  ESTRUCTURA GENERAL DEL EXPERIMENTO:
 #  - Se define 2 dados justos de 6 caras cada uno
-#
-#  # ============================================================
-# CÓMO MODIFICAR RÁPIDO EN EL PARCIAL
+
+#  ============================================================
+# CÓMO MODIFICAR EN EL PARCIAL
 #
 # 1) Cambiar el espacio muestral:
 #    - más dados
@@ -25,16 +25,7 @@
 #    al menos uno par
 #    ambos pares
 #    al menos uno > 4
-#
-# Fórmula importante:
-#
-# P(E|F) = P(E∩F) / P(F)
-#
-# En simulación:
-#
-# P(E)   ≈ favorables / N
-#
-# P(E|F) ≈ veces(E∩F) / veces(F)
+
 # ============================================================
 
 # Parametros
